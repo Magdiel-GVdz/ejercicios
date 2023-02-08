@@ -1,8 +1,6 @@
 # Bienvenido a los Ejercicios de Programación en Python
 Este repositorio contiene ejercicios de programación en el lenguaje de programación Python. Los ejercicios son aplicables para aquellos que estén aprendiendo a programar y quieran fortalecer sus habilidades en Python.
 
-Los ejercicios van desde lo básico hasta lo intermediario y se enfocan en los conceptos clave de la programación como variables, estructuras de control de flujo, funciones, entre otros.
-
 El código está documentado y comentado para que puedas seguir fácilmente y entender cómo funciona. Además, cada ejercicio viene con una descripción clara de lo que se espera que haga el programa.
 
 ## Requisitos
